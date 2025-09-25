@@ -16,3 +16,34 @@ export const SUPPORTED_LANGUAGES: string[] = [
   "Swift",
   "Kotlin",
   ];
+
+export const FILE_EXTENSION_TO_LANGUAGE_MAP: { [key: string]: string } = {
+    'cs': 'C#', 
+    'js': 'JavaScript', 
+    'html': 'HTML', 
+    'htm': 'HTML', 
+    'css': 'CSS',
+    'sql': 'T-SQL', 
+    'ts': 'TypeScript', 
+    'py': 'Python', 
+    'java': 'Java',
+    'cpp': 'C++', 
+    'cxx': 'C++', 
+    'cc': 'C++', 
+    'hpp': 'C++', 
+    'hxx': 'C++', 
+    'h': 'C++',
+    'go': 'Go', 
+    'rs': 'Rust', 
+    'rb': 'Ruby', 
+    'php': 'PHP', 
+    'swift': 'Swift', 
+    'kt': 'Kotlin',
+    'kts': 'Kotlin',
+};
+
+export const LANGUAGE_FILENAME_MAP: { [key: string]: string } = {
+  'C++': 'CPP',
+  'C#': 'CSharp',
+  'PL/SQL': 'PLSQL',
+};
