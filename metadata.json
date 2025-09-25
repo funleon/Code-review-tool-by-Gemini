@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 程式碼審查工具",
+  "description": "一個由 Gemini 驅動的自動化程式碼審查工具。貼上您的程式碼，選擇程式語言，即可獲得關於品質、效能、安全性等方面的專家回饋。",
+  "requestFramePermissions": []
+}

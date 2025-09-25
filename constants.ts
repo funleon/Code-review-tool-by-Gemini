@@ -1,0 +1,18 @@
+export const SUPPORTED_LANGUAGES: string[] = [
+  "PL/SQL",
+  "C#",
+  "JavaScript",
+  "HTML",
+  "CSS",
+  "T-SQL",
+  "TypeScript",
+  "Python",
+  "Java",
+  "C++",
+  "Go",
+  "Rust",
+  "Ruby",
+  "PHP",
+  "Swift",
+  "Kotlin",
+  ];
